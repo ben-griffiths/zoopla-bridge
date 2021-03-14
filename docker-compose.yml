@@ -1,0 +1,26 @@
+x-app: &app
+  build: .
+  image: service-template
+  volumes:
+    - .:/code
+  command: "poetry run gunicorn --bind 0.0.0.0:5000 --reload service_template.app:app"
+
+services:
+  web:
+    <<: *app
+    ports:
+      - "5000:5000"
+    stop_signal: SIGINT
+    depends_on:
+      - db
+  funtest:
+    <<: *app
+    command: echo "Done"
+    depends_on:
+      - web
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=database

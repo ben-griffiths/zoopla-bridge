@@ -1,0 +1,31 @@
+name: Build, Lint and Test
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build containers
+        run: make init
+
+      - name: Run linters
+        run: |
+          docker-compose run web poetry run flake8
+          docker-compose run web poetry run aws-openapi-lint openapi/openapi.yaml --exclude-rules \
+          missing_amazon_integration,options_cors_not_enough_verbs
+
+      - name: Start containers
+        run: docker-compose up -d
+
+      - name: Check running containers
+        run: docker ps -a
+
+      - name: Check logs
+        run: docker-compose logs web
+
+      - name: Run tests
+        run: docker-compose run funtest pytest
