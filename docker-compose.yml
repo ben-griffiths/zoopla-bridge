@@ -3,7 +3,7 @@ x-app: &app
   image: service-template
   volumes:
     - .:/code
-  command: "poetry run gunicorn --bind 0.0.0.0:5000 --reload service_template.app:app"
+  command: "poetry run gunicorn --bind 0.0.0.0:5000 --reload --log-level debug service_template.app:app"
 
 services:
   web:

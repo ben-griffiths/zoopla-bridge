@@ -1,14 +1,11 @@
-from service_template.db import User
+from service_template.repository.health_repo import can_select
 
 
 class HealthService:
-    def __init__(self) -> None:
-        pass
+    def __init__(self, db_engine) -> None:
+        self.db_engine = db_engine
 
     def get_health(self):
-        db_health = True
-        try:
-            User.query.all()
-        except Exception:
-            db_health = False
+        with self.db_engine.begin() as conn:
+            db_health = can_select(conn)
         return {"ok": True, "db": db_health}
