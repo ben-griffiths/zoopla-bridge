@@ -1,6 +1,6 @@
 x-app: &app
   build: .
-  image: service-template
+  image: bengriff1/service-template:latest
   volumes:
     - .:/code
   command: "poetry run gunicorn --bind 0.0.0.0:5000 --reload --log-level debug service_template.app:app"
