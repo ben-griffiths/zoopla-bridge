@@ -25,10 +25,11 @@ class PrefixMiddleware(object):
 
 app = Flask(__name__)
 PREFIX_PATH = os.environ.get("PREFIX_PATH", "")
-print("PREFIX_PATH", PREFIX_PATH)
+DB_URL = os.environ.get("DB_URL", "postgresql://admin:password@db:5432/database")
+
 app.wsgi_app = PrefixMiddleware(app.wsgi_app, prefix=PREFIX_PATH)
 
-db_engine = create_engine("postgresql://admin:password@db:5432/database")
+db_engine = create_engine(DB_URL)
 Base.metadata.bind = db_engine
 
 health_service = HealthService(db_engine)
