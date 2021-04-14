@@ -38,8 +38,7 @@ spec:
               containerPort: 5000
               protocol: TCP
           env:
-            - name: PREFIX_PATH
-              value: /v1/service-template/
+            {{- toYaml .Values.env | nindent 12 }}
           resources:
             {{- toYaml .Values.resources | nindent 12 }}
       {{- with .Values.nodeSelector }}

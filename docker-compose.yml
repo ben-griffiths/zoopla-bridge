@@ -21,6 +21,6 @@ services:
   db:
     image: postgres
     environment:
-      - POSTGRES_USER=admin
+      - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=password
-      - POSTGRES_DB=database
+      - POSTGRES_DB=postgres

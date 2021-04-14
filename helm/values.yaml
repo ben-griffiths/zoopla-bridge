@@ -90,5 +90,10 @@ affinity: {}
 env:
   - name: PREFIX_PATH
     value: /v1/service-template/
-  - name: DB_URL
+  - name: DB_HOST
     value: service-template-postgresql.default.svc.cluster.local
+  - name: DB_PASSWORD
+    valueFrom:
+      secretKeyRef:
+        name: service-template-postgresql
+        key: postgresql-password
