@@ -1,0 +1,17 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: "{{ .Release.Name }}"
+  annotations:
+    # This is what defines this resource as a hook
+    "helm.sh/hook": post-upgrade
+spec:
+  template:
+    spec:
+      containers:
+        - name: migrations
+          image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
+          env:
+            {{- toYaml .Values.env | nindent 12 }}
+          command: ["poetry", "run", "alembic", "upgrade", "head"]
+      restartPolicy: Never
