@@ -1,11 +1,11 @@
 apiVersion: batch/v1
 kind: Job
 metadata:
-  name: "{{ .Release.Name }}"
+  name: "{{ .Release.Name }}-init"
   annotations:
-    # This is what defines this resource as a hook
     "helm.sh/hook": post-upgrade
 spec:
+  ttlSecondsAfterFinished: 100
   template:
     spec:
       containers:
