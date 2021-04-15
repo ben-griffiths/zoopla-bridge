@@ -1,10 +1,11 @@
+import os
+
 from flask import Flask
 from sqlalchemy import create_engine
 
 from service_template.api.health_view import HealthView
 from service_template.models import Base
 from service_template.service.health_service import HealthService
-import os
 
 
 class PrefixMiddleware(object):
@@ -28,6 +29,8 @@ app = Flask(__name__)
 PREFIX_PATH = os.environ.get("PREFIX_PATH", "")
 DB_HOST = os.environ.get("DB_HOST", "db:5432")
 DB_PASSWORD = os.environ.get("DB_PASSWORD", "password")
+
+print(DB_HOST, DB_PASSWORD)
 
 app.wsgi_app = PrefixMiddleware(app.wsgi_app, prefix=PREFIX_PATH)
 
