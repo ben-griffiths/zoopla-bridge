@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "service-template"
+name = "bridge-template"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
@@ -20,6 +20,7 @@ sqlalchemy = "^1.4.0"
 Flask-SQLAlchemy = "^2.4.4"
 psycopg2 = "^2.8.6"
 alembic = "^1.5.7"
+pydantic = "^1.8.2"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^20.8b1", allow-prereleases = true}

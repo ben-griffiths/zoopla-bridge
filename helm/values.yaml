@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: bengriff1/service-template
+  repository: bengriff1/bridge-template
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
@@ -40,7 +40,7 @@ securityContext:
 
 service:
   type: ClusterIP
-  port: 5000
+  port: 5200
 
 ingress:
   enabled: true
@@ -50,12 +50,12 @@ ingress:
   hosts:
     - host: api.bmgtec.com
       paths:
-        - path: /v1/service-template/
+        - path: /v1/bridge-template/
           backend:
             service:
-              name: service-template-helm
+              name: bridge-template-helm
               port:
-                number: 5000
+                number: 5200
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
@@ -89,11 +89,4 @@ affinity: {}
 
 env:
   - name: PREFIX_PATH
-    value: /v1/service-template/
-  - name: DB_HOST
-    value: service-template-postgresql.default:5432
-  - name: DB_PASSWORD
-    valueFrom:
-      secretKeyRef:
-        name: service-template-postgresql
-        key: postgresql-password
+    value: /v1/bridge-template/
