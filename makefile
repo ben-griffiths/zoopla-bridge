@@ -1,15 +1,14 @@
-FORMAT_PATH = service_template functional_tests migrations
+FORMAT_PATH = bridge_template functional_tests
 OPENAPI_IGNORE_RULES = missing_amazon_integration,options_cors_not_enough_verbs
 
 init:
 	docker-compose build
-	make migrate
 
 start:
-	docker-compose run web
+	docker-compose up web
 
 test:
-	docker-compose run funtest pytest
+	docker-compose run --rm funtest pytest ${ARGS}
 
 lint:
 	poetry run flake8
@@ -19,10 +18,3 @@ format:
 	poetry run black $(FORMAT_PATH)
 	poetry run isort .
 	poetry run autoflake --remove-all-unused-imports --in-place --remove-unused-variables --recursive $(FORMAT_PATH)
-
-gen_migration:
-	docker-compose run web poetry run alembic revision --autogenerate -m $(NAME)
-	make format
-
-migrate:
-	docker-compose run web poetry run alembic upgrade head

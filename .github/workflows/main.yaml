@@ -3,7 +3,7 @@ name: Build, Lint and Test
 on: push
 
 env:
-  IMAGE: bengriff1/service-template:latest
+  IMAGE: bengriff1/bridge-template:latest
 
 jobs:
   build:
@@ -59,9 +59,6 @@ jobs:
 
       - name: Check logs
         run: docker-compose logs web
-
-      - name: Run migrations
-        run: docker-compose run web poetry run alembic upgrade head
 
       - name: Run tests
         run: docker-compose run funtest pytest
