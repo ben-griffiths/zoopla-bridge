@@ -3,7 +3,7 @@ x-app: &app
   image: bengriff1/bridge-template:latest
   volumes:
     - .:/code
-  command: "poetry run gunicorn --bind 0.0.0.0:5000 --reload --log-level debug bridge_template.app:app"
+  command: "poetry run gunicorn --bind 0.0.0.0:5200 --reload --log-level debug bridge_template.app:app"
 
 services:
   web:
