@@ -1,6 +1,6 @@
 openapi: "3.0.0"
 info:
-  title: Search Service
+  title: Bridge Template
   description: API description in Markdown.
   version: 1.0.0
 tags:
@@ -24,7 +24,7 @@ paths:
                     type: boolean
                 required:
                   - ok
-  /v1/search:
+  /v1/search/example:
     post:
       summary: Do search
       tags:
@@ -60,12 +60,27 @@ components:
           properties:
             result_id:
               $ref: "#/components/schemas/uuid"
-            field_id:
-              type: string
-              enum: [field1, field2, field3]
-            value:
-              type: string
+            values:
+              type: array
+              items:
+                $ref: "#/components/schemas/Value"
+              minItems: 1
+          required:
+            - result_id
+            - values
         - $ref: "#/components/schemas/Immutable"
+
+    Value:
+      type: object
+      properties:
+        field_id:
+          type: string
+          enum: [field1, field2, field3]
+        value:
+          type: string
+      required:
+        - field_id
+        - value
 
     Immutable:
       type: object

@@ -16,10 +16,6 @@ flake8 = "^3.8.4"
 AWS-OpenAPI-Lint = "^0.2.2"
 isort = "^5.7.0"
 autoflake = "^1.4"
-sqlalchemy = "^1.4.0"
-Flask-SQLAlchemy = "^2.4.4"
-psycopg2 = "^2.8.6"
-alembic = "^1.5.7"
 pydantic = "^1.8.2"
 
 [tool.poetry.dev-dependencies]

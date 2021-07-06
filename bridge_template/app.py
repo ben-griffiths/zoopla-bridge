@@ -25,7 +25,7 @@ map_url_rules(
     app,
     {
         "/health": [get(health_view.get_health)],
-        "/v1/search": [post(search_view.post_search)],
+        "/v1/search/example/": [post(search_view.post_search_example)],
     },
 )
 

@@ -8,7 +8,7 @@ start:
 	docker-compose up web
 
 test:
-	docker-compose run --rm funtest pytest ${ARGS}
+	docker-compose run --rm funtest pytest
 
 lint:
 	poetry run flake8
@@ -18,3 +18,6 @@ format:
 	poetry run black $(FORMAT_PATH)
 	poetry run isort .
 	poetry run autoflake --remove-all-unused-imports --in-place --remove-unused-variables --recursive $(FORMAT_PATH)
+
+setup:
+	docker-compose run --rm web python -m bridge_template.search_setup

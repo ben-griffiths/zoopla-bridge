@@ -7,7 +7,7 @@ ENV PYTHONUNBUFFERED 1
 
 # Install dev dependencies
 RUN apk update && \
-apk add curl postgresql-dev gcc python3-dev musl-dev openssl-dev libffi-dev g++
+apk add curl gcc python3-dev musl-dev openssl-dev libffi-dev g++
 
 # Install poetry
 RUN pip install -U pip && \
@@ -23,4 +23,4 @@ poetry install --no-interaction --no-ansi
 
 COPY . /code/
 
-CMD ["poetry", "run", "gunicorn", "--bind", "0.0.0.0:5200", "--reload", "--log-level", "debug", "bridge_template.app:app" ]
+CMD ["poetry", "run", "gunicorn", "--bind", "0.0.0.0:5000", "--reload", "--log-level", "debug", "bridge_template.app:app" ]
