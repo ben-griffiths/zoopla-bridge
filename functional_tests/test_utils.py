@@ -13,11 +13,11 @@ def _get_health_ok():
     return resp
 
 
-def _post_search(body):
-    return requests.post(f"{BASE_URL}/v1/search", json=body)
+def _post_search_example(body):
+    return requests.post(f"{BASE_URL}/v1/search/example", json=body)
 
 
-def _post_search_ok(body):
-    resp = _post_search(body)
+def _post_search_example_ok(body):
+    resp = _post_search_example(body)
     assert resp.status_code == 200
     return resp
