@@ -90,3 +90,7 @@ affinity: {}
 env:
   - name: PREFIX_PATH
     value: /v1/zoopla-bridge/
+  - name: BASE_URL
+    value: http://api.bmgtec.com/v1/zoopla-bridge
+  - name: SEARCH_SERVICE_URL
+    value: http://api.bmgtec.com/v1/search-service
