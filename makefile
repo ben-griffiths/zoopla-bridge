@@ -1,4 +1,4 @@
-FORMAT_PATH = bridge_template functional_tests
+FORMAT_PATH = zoopla_bridge functional_tests
 OPENAPI_IGNORE_RULES = missing_amazon_integration,options_cors_not_enough_verbs
 
 init:
@@ -20,4 +20,4 @@ format:
 	poetry run autoflake --remove-all-unused-imports --in-place --remove-unused-variables --recursive $(FORMAT_PATH)
 
 setup:
-	docker-compose run --rm web python -m bridge_template.search_setup
+	docker-compose run --rm web python -m zoopla_bridge.search_setup

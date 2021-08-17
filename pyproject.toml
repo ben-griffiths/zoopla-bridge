@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "bridge-template"
+name = "zoopla-bridge"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
@@ -17,6 +17,7 @@ AWS-OpenAPI-Lint = "^0.2.2"
 isort = "^5.7.0"
 autoflake = "^1.4"
 pydantic = "^1.8.2"
+beautifulsoup4 = "^4.9.3"
 
 [tool.poetry.dev-dependencies]
 black = {version = "^20.8b1", allow-prereleases = true}
@@ -31,3 +32,6 @@ include_trailing_comma = true
 force_grid_wrap = 0
 use_parentheses = true
 line_length = 88
+
+[tool.black]
+experimental-string-processing = true

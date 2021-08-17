@@ -12,5 +12,5 @@ spec:
         - name: search-setup
           image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
           env: { { - toYaml .Values.env | nindent 12 } }
-          command: ["python", "-m", "bridge_template.search_setup"]
+          command: ["python", "-m", "zoopla_bridge.search_setup"]
       restartPolicy: Never

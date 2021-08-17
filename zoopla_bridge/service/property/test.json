@@ -1,0 +1,1126 @@
+{
+  "props": {
+    "initialProps": {
+      "pageProps": {
+        "listingId": 59312567,
+        "data": {
+          "listing": {
+            "__typename": "ListingData",
+            "branch": {
+              "__typename": "AgentBranch",
+              "branchDetailsUri": "/find-agents/branch/knight-frank-country-department-sales-london-115664/",
+              "branchResultsUri": "/for-sale/branch/knight-frank-country-department-sales-london-115664/",
+              "logoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+              "phone": "020 3641 0797",
+              "name": "Knight Frank - Country Department Sales",
+              "memberType": "agent"
+            },
+            "epc": { "__typename": "EPC", "image": null, "pdf": null },
+            "floorPlan": {
+              "__typename": "FloorPlan",
+              "image": null,
+              "links": null,
+              "pdf": [
+                {
+                  "__typename": "Media",
+                  "original": "https://lc.zoocdn.com/8e388cd349fd3dcb072c454e0449260d6a911c98.pdf",
+                  "caption": "Floorplan"
+                }
+              ]
+            },
+            "administrationFees": null,
+            "embeddedContent": {
+              "__typename": "EmbeddedContent",
+              "videos": null,
+              "tours": null,
+              "links": null,
+              "smartViewings": null
+            },
+            "listingUris": {
+              "__typename": "ListingUris",
+              "detail": "/for-sale/details/59312567/"
+            },
+            "section": "for-sale",
+            "marketStats": {
+              "__typename": "MarketStats",
+              "areaName": "RG25",
+              "areaNameUri": "rg25",
+              "askingPrices": null,
+              "historicalEstimates": null,
+              "sales": null,
+              "recentSales": [
+                {
+                  "__typename": "RecentSale",
+                  "date": "2021-06-07T00:00:00Z",
+                  "price": 460000,
+                  "propertyId": 19424389,
+                  "streetAddress": "2, Stonehills, ",
+                  "uri": "2/stonehills/steventon/basingstoke/rg25-3ba"
+                },
+                {
+                  "__typename": "RecentSale",
+                  "date": "2021-05-27T00:00:00Z",
+                  "price": 570000,
+                  "propertyId": 19423510,
+                  "streetAddress": "21 Southlea",
+                  "uri": "21-southlea/cliddesden/basingstoke/rg25-2jn"
+                },
+                {
+                  "__typename": "RecentSale",
+                  "date": "2021-05-12T00:00:00Z",
+                  "price": 432500,
+                  "propertyId": 29105610,
+                  "streetAddress": "59 Overton Hill",
+                  "uri": "59-overton-hill/overton/basingstoke/rg25-3pd"
+                },
+                {
+                  "__typename": "RecentSale",
+                  "date": "2021-05-12T00:00:00Z",
+                  "price": 515000,
+                  "propertyId": 29105611,
+                  "streetAddress": "58 Overton Hill",
+                  "uri": "58-overton-hill/overton/basingstoke/rg25-3pd"
+                },
+                {
+                  "__typename": "RecentSale",
+                  "date": "2021-05-11T00:00:00Z",
+                  "price": 435000,
+                  "propertyId": 19425709,
+                  "streetAddress": "4 Poultons Road",
+                  "uri": "4-poultons-road/overton/basingstoke/rg25-3na"
+                }
+              ],
+              "propertyTypeGroup": null
+            },
+            "adTargeting": {
+              "__typename": "ListingAnalyticsTaxonomy",
+              "acorn": 5,
+              "acornType": 5,
+              "areaName": "",
+              "bedsMax": 7,
+              "bedsMin": 7,
+              "branchId": 115664,
+              "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+              "branchName": "Knight Frank - Country Department Sales",
+              "brandName": "Knight Frank",
+              "chainFree": false,
+              "companyId": 2182,
+              "countryCode": "gb",
+              "countyAreaName": "",
+              "currencyCode": "GBP",
+              "displayAddress": "Hackwood Park, Basingstoke, Hampshire RG25",
+              "furnishedState": "unfurnished",
+              "groupId": 94,
+              "hasEpc": false,
+              "hasFloorplan": true,
+              "incode": "2HQ",
+              "isRetirementHome": false,
+              "isSharedOwnership": false,
+              "listingCondition": "pre-owned",
+              "listingId": 59312567,
+              "listingsCategory": "residential",
+              "listingStatus": "for_sale",
+              "location": "",
+              "memberType": "agent",
+              "numBaths": 5,
+              "numBeds": 7,
+              "numImages": 26,
+              "numRecepts": 6,
+              "outcode": "RG25",
+              "postalArea": "",
+              "postTownName": "",
+              "priceActual": 13800000,
+              "price": 13800000,
+              "priceMax": 15000000,
+              "priceMin": 12500000,
+              "priceQualifier": "offers_over",
+              "propertyHighlight": "",
+              "propertyType": "",
+              "regionName": "South East England",
+              "section": "for-sale",
+              "sizeSqFeet": "4941",
+              "tenure": null,
+              "zindex": null
+            },
+            "detailedDescription": "The Roundtown Estate is a truly spectacular block of rolling Hampshire countryside within striking distance of London. It represents a rare opportunity to acquire over 1,000 acre ring fenced block of commercial farmland interspersed with beautiful mature woodland and historic parkland.\u003cbr\u003e\u003cbr\u003eThe estate is entered off a quiet country lane with the drive meandering half a mile alongside post and rail paddocks flanked by a mature woodland belt. The drive comes to a circular gravelled parking area to the north of the house surrounded by wonderful mature oaks on the edge of the wider estate.\u003cbr\u003e\u003cbr\u003eRoundtown House is a unique conversion and extension of a Grade II listed lodge in a mature woodland setting. The former cottages to Hackwood Park underwent a successful project preserving its interesting architectural details achieving an extremely comfortable home ideal for family life and entertaining.\u003cbr\u003e\u003cbr\u003eThe house has a series of excellent reception rooms including the drawing room, garden room, dining room, 2 sitting rooms and a study. There is a large main bedroom suite with dressing room/second bedroom and ensuite bathroom, along with a principal guest suite, 2 further ensuite bedrooms and 2 bedrooms and a bathroom.\u003cbr\u003e\u003cbr\u003eThe majority of rooms have lovely outlooks over the large lawned garden and mixed woodland beyond. Adjacent to the house is a stable block with stables, storage, garaging and a biomass boiler. Half way up the main, planning permission has been granted for a charming period style cottage which would be ideal for guests, family or staff accommodation. Equally it would be a very attractive proposition to the rental market. The cottage would have a living room, kitchen with breakfast/dining area, study, 3 bedrooms and 2 bathrooms and an adjoining double garage surrounded by a garden.\u003cbr\u003eThe planning consent was granted by Basingstoke and Deane Borough Council with a reference of 20/01218/ful.\u003cbr\u003eThe Estate lies in some of Hampshire's most beautiful countryside and has a wonderful combination of rolling farmland and mature mixed woodland.\u003cbr\u003e\u003cbr\u003eThe estate is well laid out to provide an excellent pheasant and partridge shoot with established woodland that is easily accessed by a series of conveniently laid out tracks and conservation headlands equally ideal for riding through out the estate. There is also a small cross country course.\u003cbr\u003eThe diverse terrain has recently supported a shoot of circa 15 days a year with average bags of around 250 birds. There is also excellent stalking on the estate with roe, fallow deer and muntjac with the three year average of over 150 head.\u003cbr\u003eThe woods and land are alive with an abundance of further wildlife including wonderful bird life, hare and other game, and wild flowers with carpets of bluebells particularly in the ancient woodland.\u003cbr\u003e\u003cbr\u003eThere is no doubt that The Roundtown Estate is a unique and extremely special place. The Estate is currently farmed in hand with contractors carrying out the bulk of the works.\u003cbr\u003e\u003cbr\u003eThe estate is situated off a quiet country lane just to the west of the hamlet of Tunworth and just 3 miles from the highly sought after village of Upton Grey. Upton Grey is a quintessential English village within 2.5 miles and renowned as being one of the most beautiful and accessible villages in North Hampshire. This popular village enjoys good facilities including a pub, village shop, village hall and church.\u003cbr\u003e\u003cbr\u003eJust 7 miles away is the attractive Georgian town of Odiham which has excellent daily shopping facilities together with a selection of restaurants, bank and schools. Basingstoke, Alton and Farnham are just a short drive and offer a more comprehensive range of shopping and services. The area has excellent communications with easy access to the M3 motorway (Junction 5 or 6) and the mainline station at Basingstoke with a fast regular train service to London Waterloo from 44 minutes.\u003cbr\u003e\u003cbr\u003eThere are excellent schools in the area including Winchester College, Downe House, Marlborough, Wellington, Eton, Lord Wandsworth College, Alton Covent School, St Swithuns, Cheam, Bedales, Twyford School and Pilgrim's.\u003cbr\u003e\u003cbr\u003eThere is excellent shooting and riding across the estate and local area along with hunting with the Hampshire Hunt. There are further recreational and sporting facilities including golf at Test Valley, Alresford, Overton, Basingtoke and Winchester. There is excellent sailing within easy reach along the south coast and the area is well known for its chalk stream fishing on the Rivers Test and Itchen.",
+            "features": {
+              "__typename": "Features",
+              "bullets": [
+                "6 - 7 bedrooms",
+                "6 reception rooms",
+                "5 bathrooms",
+                "1011.14 acres",
+                "Outbuildings",
+                "Period",
+                "Equestrian",
+                "Rural",
+                "Stabling",
+                "Woodland",
+                "Gate house secondary accommodation"
+              ],
+              "flags": {
+                "__typename": "FeatureFlag",
+                "furnishedState": {
+                  "__typename": "Label",
+                  "name": "unfurnished",
+                  "label": "Unfurnished"
+                },
+                "studentFriendly": false,
+                "tenure": null,
+                "availableFromDate": null
+              },
+              "highlights": null
+            },
+            "propertyImage": [
+              {
+                "__typename": "Media",
+                "filename": "5395f5e0835155fe92ce617a9e18c110680d7c2e.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "b60a15e1835a992fe396ec56ede57a8b385c6136.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "b5fdf59c66ca74d0d2a14da0ca8419ab1e2214fd.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "fc62c1b7e857a36928250ddab5f46b36a9134798.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "329be0a225571120f553adef9479f898a06bc074.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "12ba77fe46d3e97c4bf7c4c228cc27db94a3554f.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "3a0f9c308a96b9ba9fb9798deb4360eec8d3fa9c.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "e8f3a66e715110b62218dcbc0117a3743148cbed.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "d391c907009d6b4deb16dc2c2a797655d76074ca.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "723f9c2ab81c727126fce0d2f91a5c69f2383e79.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "b4b3606917753b0cd527d70d514d35c99493e1ff.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "3e0efb4a8b5d82fa7bcd66ac4d0d8959b9f79d09.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "6d7171d746089d928c60acc2dd27afa944b38661.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "d0b7b6e1177b9d9701f7185b9344d0a09f6dca96.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "70d83b93fef71b81ef562f542b6686d18c7bcb5c.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "c15569fe22f433e38b08b0abea4ad121703c9eb0.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "af26d83d3a9448b7b62432a04accb8c89153056e.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "ee9fdd41abd33072a4dd059b66037c283dd4356a.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "91248d5a067864e7c95d5eb6f0c1004b860773b6.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "7e667e100dd2ec1ee1652fc1917d1ee11930a652.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "81fb4da980e2cfae2e9a8e140a9f0cb6a256e398.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "bb82bbef2908f6d55647a37c51231736bd779e10.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "16a8db01ea14d4bfaa516a7f856d03d9dc66286b.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "2252f5d65256a83b69db284cc5e72ace64610e30.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "a7c985727278ed2e580809f5f275990f6078a587.jpg",
+                "caption": "Image"
+              },
+              {
+                "__typename": "Media",
+                "filename": "4418503cd86d3b3a1d8cdc2ec7067d87d44dac33.jpg",
+                "caption": "Image"
+              }
+            ],
+            "analyticsTaxonomy": {
+              "__typename": "ListingAnalyticsTaxonomy",
+              "location": "",
+              "regionName": "South East England",
+              "section": "for-sale",
+              "acorn": 5,
+              "acornType": 5,
+              "areaName": "",
+              "bedsMax": 7,
+              "bedsMin": 7,
+              "branchId": 115664,
+              "branchLogoUrl": "https://st.zoocdn.com/zoopla_static_agent_logo_(644074).png",
+              "branchName": "Knight Frank - Country Department Sales",
+              "brandName": "Knight Frank",
+              "chainFree": false,
+              "companyId": 2182,
+              "countryCode": "gb",
+              "countyAreaName": "",
+              "currencyCode": "GBP",
+              "displayAddress": "Hackwood Park, Basingstoke, Hampshire RG25",
+              "furnishedState": "unfurnished",
+              "groupId": 94,
+              "hasEpc": false,
+              "hasFloorplan": true,
+              "incode": "2HQ",
+              "isRetirementHome": false,
+              "isSharedOwnership": false,
+              "listingCondition": "pre-owned",
+              "listingId": 59312567,
+              "listingsCategory": "residential",
+              "listingStatus": "for_sale",
+              "memberType": "agent",
+              "numBaths": 5,
+              "numBeds": 7,
+              "numImages": 26,
+              "numRecepts": 6,
+              "outcode": "RG25",
+              "postalArea": "",
+              "postTownName": "",
+              "priceActual": 13800000,
+              "price": 13800000,
+              "priceMax": 15000000,
+              "priceMin": 12500000,
+              "priceQualifier": "offers_over",
+              "propertyHighlight": "",
+              "propertyType": "",
+              "sizeSqFeet": "4941",
+              "tenure": null,
+              "zindex": null
+            },
+            "metaTitle": "7 bed property for sale in Hackwood Park, Basingstoke, Hampshire RG25 - Zoopla",
+            "metaDescription": "7 bed property for sale in Hackwood Park, Basingstoke, Hampshire RG25, selling for £13,800,000 from Knight Frank - Country Department Sales. See property details on Zoopla or browse all our range of properties in Hackwood Park, Basingstoke, Hampshire RG25.",
+            "location": {
+              "__typename": "ListingLocation",
+              "coordinates": {
+                "__typename": "LocationCoordinates",
+                "latitude": 51.241558,
+                "longitude": -1.04498
+              }
+            },
+            "content": {
+              "__typename": "MediaContent",
+              "floorPlan": [
+                {
+                  "__typename": "Media",
+                  "original": "https://lc.zoocdn.com/8e388cd349fd3dcb072c454e0449260d6a911c98.pdf"
+                }
+              ]
+            },
+            "listingId": "59312567",
+            "title": "7 bed property for sale",
+            "displayAddress": "Hackwood Park, Basingstoke, Hampshire RG25",
+            "statusSummary": null,
+            "tags": [],
+            "counts": {
+              "__typename": "RoomCount",
+              "numBedrooms": 7,
+              "numBathrooms": 5,
+              "numLivingRooms": 6
+            },
+            "floorArea": {
+              "__typename": "FloorArea",
+              "unitsLabel": "sq. ft",
+              "value": 4941
+            },
+            "pricing": {
+              "__typename": "ListingPricing",
+              "label": "£13,800,000",
+              "priceQualifierLabel": "Offers over",
+              "rentFrequencyLabel": null,
+              "isAuction": false,
+              "pricePerFloorAreaUnit": {
+                "__typename": "PriceInfo",
+                "internalValue": 2793,
+                "unitsLabel": "sq. ft"
+              },
+              "alternateRentFrequencyPrice": null
+            },
+            "analyticsEcommerce": {
+              "__typename": "ListingAnalyticsEcommerce",
+              "brand": "Knight Frank",
+              "category": "for-sale/resi/agent/pre-owned/gb",
+              "id": 59312567,
+              "name": "FS_Contact",
+              "price": 1,
+              "quantity": 1,
+              "variant": "standard"
+            },
+            "additionalLinks": [
+              {
+                "__typename": "Media",
+                "caption": "More Details",
+                "original": "https://www.knightfrank.com/CHO012037144",
+                "type": "brochure"
+              },
+              {
+                "__typename": "Media",
+                "caption": "Brochure",
+                "original": "https://lc.zoocdn.com/b31ee347b8e839517d8d8724f39b9a277107b5f4.pdf",
+                "type": "brochure"
+              }
+            ],
+            "pointsOfInterest": [
+              {
+                "__typename": "PointOfInterest",
+                "title": "Rucstall Primary School",
+                "type": "uk_school_primary",
+                "distanceMiles": 1.6
+              },
+              {
+                "__typename": "PointOfInterest",
+                "title": "Old Basing Infant School",
+                "type": "uk_school_primary",
+                "distanceMiles": 2
+              },
+              {
+                "__typename": "PointOfInterest",
+                "title": "Basingstoke",
+                "type": "national_rail_station",
+                "distanceMiles": 2.6
+              },
+              {
+                "__typename": "PointOfInterest",
+                "title": "Hook",
+                "type": "national_rail_station",
+                "distanceMiles": 4.5
+              }
+            ],
+            "priceHistory": {
+              "__typename": "PriceHistory",
+              "firstPublished": {
+                "__typename": "PriceHistoryFirstPublished",
+                "firstPublishedDate": "2021-07-29 07:58:44",
+                "priceLabel": "£13,800,000"
+              },
+              "lastSale": null,
+              "priceChanges": null
+            },
+            "viewCount": { "__typename": "ViewCount", "viewCount30day": 1013 }
+          },
+          "backToResultsLink": {
+            "__typename": "BackToResultsLink",
+            "linkType": "geo",
+            "uri": "/for-sale/"
+          },
+          "breadcrumbs": [
+            {
+              "__typename": "Breadcrumbs",
+              "label": "Zoopla",
+              "tracking": "home",
+              "uri": "/",
+              "noAppend": null,
+              "i18nLabelKey": null
+            },
+            {
+              "__typename": "Breadcrumbs",
+              "label": "For sale",
+              "tracking": "for sale",
+              "uri": "/for-sale/",
+              "noAppend": null,
+              "i18nLabelKey": null
+            },
+            {
+              "__typename": "Breadcrumbs",
+              "label": "Hampshire",
+              "tracking": "hampshire",
+              "uri": "/for-sale/property/hampshire/",
+              "noAppend": null,
+              "i18nLabelKey": null
+            },
+            {
+              "__typename": "Breadcrumbs",
+              "label": "7 bed property for sale",
+              "tracking": null,
+              "uri": null,
+              "noAppend": 1,
+              "i18nLabelKey": null
+            }
+          ]
+        },
+        "mobileOS": null,
+        "apolloState": {},
+        "apollo": null,
+        "optimizelyDatafile": "{\"version\": \"4\", \"rollouts\": [{\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"19335511376\", \"key\": \"19335511376\", \"featureEnabled\": true}], \"id\": \"19336191273\", \"key\": \"19336191273\", \"layerId\": \"19328761035\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"19328761035\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"19874710139\", \"key\": \"19874710139\", \"featureEnabled\": true}], \"id\": \"19877930660\", \"key\": \"19877930660\", \"layerId\": \"19732679917\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"19732679917\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"19751331312\", \"key\": \"19751331312\", \"featureEnabled\": true}], \"id\": \"19732562643\", \"key\": \"19732562643\", \"layerId\": \"19736382992\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"19736382992\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceConditions\": [\"or\", \"19998648250\"], \"audienceIds\": [\"19998648250\"], \"variations\": [{\"variables\": [{\"id\": \"19957591217\", \"value\": \"false\"}], \"id\": \"20002546696\", \"key\": \"20002546696\", \"featureEnabled\": true}], \"id\": \"20021156353\", \"key\": \"20021156353\", \"layerId\": \"19956201394\", \"trafficAllocation\": [], \"forcedVariations\": {}}, {\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [{\"id\": \"19957591217\", \"value\": \"false\"}], \"id\": \"19965303945\", \"key\": \"19965303945\", \"featureEnabled\": true}], \"id\": \"19967235946\", \"key\": \"19967235946\", \"layerId\": \"19956201394\", \"trafficAllocation\": [{\"entityId\": \"19965303945\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"19956201394\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [{\"id\": \"20270253778\", \"value\": \"false\"}], \"id\": \"19973342048\", \"key\": \"19973342048\", \"featureEnabled\": true}], \"id\": \"19960353473\", \"key\": \"19960353473\", \"layerId\": \"19965472906\", \"trafficAllocation\": [{\"entityId\": \"19973342048\", \"endOfRange\": 5000}], \"forcedVariations\": {}}], \"id\": \"19965472906\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"19994321492\", \"key\": \"19994321492\", \"featureEnabled\": true}], \"id\": \"19994331281\", \"key\": \"19994331281\", \"layerId\": \"20011181233\", \"trafficAllocation\": [{\"entityId\": \"19994321492\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20011181233\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceConditions\": [\"or\", \"20087031244\"], \"audienceIds\": [\"20087031244\"], \"variations\": [{\"variables\": [], \"id\": \"20060209479\", \"key\": \"20060209479\", \"featureEnabled\": true}], \"id\": \"20079282484\", \"key\": \"20079282484\", \"layerId\": \"20066331797\", \"trafficAllocation\": [{\"entityId\": \"20060209479\", \"endOfRange\": 10000}], \"forcedVariations\": {}}, {\"status\": \"Running\", \"audienceConditions\": [\"or\", \"20085480105\"], \"audienceIds\": [\"20085480105\"], \"variations\": [{\"variables\": [], \"id\": \"20079372151\", \"key\": \"20079372151\", \"featureEnabled\": true}], \"id\": \"20056410452\", \"key\": \"20056410452\", \"layerId\": \"20066331797\", \"trafficAllocation\": [], \"forcedVariations\": {}}, {\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20068300417\", \"key\": \"20068300417\", \"featureEnabled\": true}], \"id\": \"20073962076\", \"key\": \"20073962076\", \"layerId\": \"20066331797\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20066331797\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20103453829\", \"key\": \"20103453829\", \"featureEnabled\": true}], \"id\": \"20090354042\", \"key\": \"20090354042\", \"layerId\": \"20091673754\", \"trafficAllocation\": [{\"entityId\": \"20103453829\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20091673754\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20101422152\", \"key\": \"20101422152\", \"featureEnabled\": true}], \"id\": \"20083544051\", \"key\": \"20083544051\", \"layerId\": \"20101473794\", \"trafficAllocation\": [{\"entityId\": \"20101422152\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20101473794\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20120313831\", \"key\": \"20120313831\", \"featureEnabled\": true}], \"id\": \"20115585121\", \"key\": \"20115585121\", \"layerId\": \"20120890204\", \"trafficAllocation\": [{\"entityId\": \"20120313831\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20120890204\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20108016564\", \"key\": \"20108016564\", \"featureEnabled\": true}], \"id\": \"20123346044\", \"key\": \"20123346044\", \"layerId\": \"20123375356\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20123375356\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [{\"id\": \"20189373768\", \"value\": \"false\"}], \"id\": \"20189354313\", \"key\": \"20189354313\", \"featureEnabled\": true}], \"id\": \"20197251831\", \"key\": \"20197251831\", \"layerId\": \"20187811121\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20187811121\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20309315158\", \"key\": \"20309315158\", \"featureEnabled\": true}], \"id\": \"20325170711\", \"key\": \"20325170711\", \"layerId\": \"20216686831\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20216686831\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20233329771\", \"key\": \"20233329771\", \"featureEnabled\": true}], \"id\": \"20248982212\", \"key\": \"20248982212\", \"layerId\": \"20229955109\", \"trafficAllocation\": [{\"entityId\": \"20233329771\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20229955109\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20257830960\", \"key\": \"20257830960\", \"featureEnabled\": true}], \"id\": \"20240285690\", \"key\": \"20240285690\", \"layerId\": \"20243918930\", \"trafficAllocation\": [{\"entityId\": \"20257830960\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20243918930\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20224856682\", \"key\": \"20224856682\", \"featureEnabled\": true}], \"id\": \"20239756602\", \"key\": \"20239756602\", \"layerId\": \"20245782483\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20245782483\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20285018512\", \"key\": \"20285018512\", \"featureEnabled\": true}], \"id\": \"20284500261\", \"key\": \"20284500261\", \"layerId\": \"20262283368\", \"trafficAllocation\": [{\"entityId\": \"20285018512\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20262283368\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20290951636\", \"key\": \"20290951636\", \"featureEnabled\": true}], \"id\": \"20264024843\", \"key\": \"20264024843\", \"layerId\": \"20272111027\", \"trafficAllocation\": [{\"entityId\": \"20290951636\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20272111027\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20242617610\", \"key\": \"20242617610\", \"featureEnabled\": true}], \"id\": \"20266066861\", \"key\": \"20266066861\", \"layerId\": \"20276200533\", \"trafficAllocation\": [{\"entityId\": \"20242617610\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20276200533\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20280293128\", \"key\": \"20280293128\", \"featureEnabled\": true}], \"id\": \"20216365592\", \"key\": \"20216365592\", \"layerId\": \"20289641343\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20289641343\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20324209285\", \"key\": \"20324209285\", \"featureEnabled\": true}], \"id\": \"20355680354\", \"key\": \"20355680354\", \"layerId\": \"20308889640\", \"trafficAllocation\": [{\"entityId\": \"20324209285\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20308889640\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20343965192\", \"key\": \"20343965192\", \"featureEnabled\": true}], \"id\": \"20344213128\", \"key\": \"20344213128\", \"layerId\": \"20322553509\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20322553509\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20354030461\", \"key\": \"20354030461\", \"featureEnabled\": true}], \"id\": \"20337586541\", \"key\": \"20337586541\", \"layerId\": \"20326388551\", \"trafficAllocation\": [{\"entityId\": \"20354030461\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20326388551\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [{\"id\": \"20321906404\", \"value\": \"false\"}], \"id\": \"20326378276\", \"key\": \"20326378276\", \"featureEnabled\": true}], \"id\": \"20341754790\", \"key\": \"20341754790\", \"layerId\": \"20330116170\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20330116170\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [{\"id\": \"20330110966\", \"value\": \"false\"}], \"id\": \"20314881091\", \"key\": \"20314881091\", \"featureEnabled\": true}], \"id\": \"20333600986\", \"key\": \"20333600986\", \"layerId\": \"20331881252\", \"trafficAllocation\": [{\"entityId\": \"20314881091\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20331881252\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20421265867\", \"key\": \"20421265867\", \"featureEnabled\": true}], \"id\": \"20394568882\", \"key\": \"20394568882\", \"layerId\": \"20336567055\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20336567055\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20333659524\", \"key\": \"20333659524\", \"featureEnabled\": true}], \"id\": \"20340720050\", \"key\": \"20340720050\", \"layerId\": \"20365010693\", \"trafficAllocation\": [{\"entityId\": \"20333659524\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20365010693\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20408573010\", \"key\": \"20408573010\", \"featureEnabled\": true}], \"id\": \"20390205848\", \"key\": \"20390205848\", \"layerId\": \"20374712756\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20374712756\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20389714220\", \"key\": \"20389714220\", \"featureEnabled\": true}], \"id\": \"20366287988\", \"key\": \"20366287988\", \"layerId\": \"20389695549\", \"trafficAllocation\": [{\"entityId\": \"20389714220\", \"endOfRange\": 100}], \"forcedVariations\": {}}], \"id\": \"20389695549\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20399801102\", \"key\": \"20399801102\", \"featureEnabled\": true}], \"id\": \"20401134638\", \"key\": \"20401134638\", \"layerId\": \"20407610254\", \"trafficAllocation\": [{\"entityId\": \"20399801102\", \"endOfRange\": 2000}], \"forcedVariations\": {}}], \"id\": \"20407610254\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20424691204\", \"key\": \"20424691204\", \"featureEnabled\": true}], \"id\": \"20439368207\", \"key\": \"20439368207\", \"layerId\": \"20429850020\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20429850020\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20430042375\", \"key\": \"20430042375\", \"featureEnabled\": true}], \"id\": \"20453252808\", \"key\": \"20453252808\", \"layerId\": \"20434494243\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20434494243\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20440992123\", \"key\": \"20440992123\", \"featureEnabled\": true}], \"id\": \"20427562669\", \"key\": \"20427562669\", \"layerId\": \"20439260429\", \"trafficAllocation\": [{\"entityId\": \"20440992123\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"id\": \"20439260429\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20518984332\", \"key\": \"20518984332\", \"featureEnabled\": true}], \"id\": \"20503058260\", \"key\": \"20503058260\", \"layerId\": \"20450580914\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20450580914\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20467875609\", \"key\": \"20467875609\", \"featureEnabled\": true}], \"id\": \"20471646789\", \"key\": \"20471646789\", \"layerId\": \"20456685468\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20456685468\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20479299011\", \"key\": \"20479299011\", \"featureEnabled\": true}], \"id\": \"20481047729\", \"key\": \"20481047729\", \"layerId\": \"20460426787\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20460426787\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20474650567\", \"key\": \"20474650567\", \"featureEnabled\": true}], \"id\": \"20466189005\", \"key\": \"20466189005\", \"layerId\": \"20493721285\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20493721285\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [{\"id\": \"20497404761\", \"value\": \"false\"}], \"id\": \"20486569014\", \"key\": \"20486569014\", \"featureEnabled\": true}], \"id\": \"20492035737\", \"key\": \"20492035737\", \"layerId\": \"20494048321\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20494048321\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [{\"id\": \"20516191061\", \"value\": \"false\"}], \"id\": \"20508330814\", \"key\": \"20508330814\", \"featureEnabled\": true}], \"id\": \"20522010703\", \"key\": \"20522010703\", \"layerId\": \"20504470755\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20504470755\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20510874538\", \"key\": \"20510874538\", \"featureEnabled\": true}], \"id\": \"20508562507\", \"key\": \"20508562507\", \"layerId\": \"20508365252\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20508365252\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20543142030\", \"key\": \"20543142030\", \"featureEnabled\": true}], \"id\": \"20533734387\", \"key\": \"20533734387\", \"layerId\": \"20510882867\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20510882867\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20519711102\", \"key\": \"20519711102\", \"featureEnabled\": true}], \"id\": \"20529971641\", \"key\": \"20529971641\", \"layerId\": \"20516102466\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20516102466\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20529821070\", \"key\": \"20529821070\", \"featureEnabled\": true}], \"id\": \"20529840940\", \"key\": \"20529840940\", \"layerId\": \"20518130941\", \"trafficAllocation\": [{\"entityId\": \"20529821070\", \"endOfRange\": 5000}], \"forcedVariations\": {}}], \"id\": \"20518130941\"}, {\"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20526220581\", \"key\": \"20526220581\", \"featureEnabled\": true}], \"id\": \"20518261111\", \"key\": \"20518261111\", \"layerId\": \"20518221163\", \"trafficAllocation\": [], \"forcedVariations\": {}}], \"id\": \"20518221163\"}], \"typedAudiences\": [{\"id\": \"20087031244\", \"conditions\": [\"and\", [\"or\", [\"or\", {\"value\": \"b04721fe-cd75-11e9-a752-effeb748d939\", \"type\": \"custom_attribute\", \"name\": \"UserId\", \"match\": \"exact\"}, {\"value\": \"c8b3ffe8-62d8-11ea-b5c5-8e73bd2066b5\", \"type\": \"custom_attribute\", \"name\": \"UserId\", \"match\": \"exact\"}, {\"value\": \"d0ebeb0e-7e2a-11ea-8663-f996dfe955b7\", \"type\": \"custom_attribute\", \"name\": \"UserId\", \"match\": \"exact\"}]], [\"or\", [\"or\", {\"value\": null, \"type\": \"custom_attribute\", \"name\": \"campaign_name\", \"match\": \"exists\"}]]], \"name\": \"Internal Email Testing List\"}], \"anonymizeIP\": true, \"projectId\": \"18817521158\", \"variables\": [], \"featureFlags\": [{\"experimentIds\": [], \"rolloutId\": \"19328761035\", \"variables\": [], \"id\": \"19349641455\", \"key\": \"alert_modal\"}, {\"experimentIds\": [], \"rolloutId\": \"19736382992\", \"variables\": [], \"id\": \"19742123119\", \"key\": \"cc_poc_feature_flags\"}, {\"experimentIds\": [], \"rolloutId\": \"19732679917\", \"variables\": [], \"id\": \"19877800685\", \"key\": \"example_feature\"}, {\"experimentIds\": [], \"rolloutId\": \"19956201394\", \"variables\": [{\"defaultValue\": \"false\", \"type\": \"boolean\", \"id\": \"19957591217\", \"key\": \"enrichment_intent\"}], \"id\": \"19937779704\", \"key\": \"valuation_booster_enrichment\"}, {\"experimentIds\": [], \"rolloutId\": \"19965472906\", \"variables\": [{\"defaultValue\": \"false\", \"type\": \"boolean\", \"id\": \"20270253778\", \"key\": \"only_select_tagged_branches\"}], \"id\": \"19960274839\", \"key\": \"valuation_step_4_redesign\"}, {\"experimentIds\": [], \"rolloutId\": \"20011181233\", \"variables\": [], \"id\": \"20011221287\", \"key\": \"valuation_backend_enrichment\"}, {\"experimentIds\": [], \"rolloutId\": \"20066331797\", \"variables\": [], \"id\": \"20040613757\", \"key\": \"espm-103_iterable_property_alerts\"}, {\"experimentIds\": [], \"rolloutId\": \"20101473794\", \"variables\": [], \"id\": \"20086632791\", \"key\": \"is_zoopla_new_brand\"}, {\"experimentIds\": [], \"rolloutId\": \"20091673754\", \"variables\": [], \"id\": \"20093644875\", \"key\": \"is_rebrand_new_logo\"}, {\"experimentIds\": [], \"rolloutId\": \"20120890204\", \"variables\": [], \"id\": \"20104625018\", \"key\": \"property_news_contentful_source\"}, {\"experimentIds\": [], \"rolloutId\": \"20123375356\", \"variables\": [], \"id\": \"20114315665\", \"key\": \"iterable_email_alerts\"}, {\"experimentIds\": [], \"rolloutId\": \"20187811121\", \"variables\": [{\"defaultValue\": \"false\", \"type\": \"boolean\", \"id\": \"20189373768\", \"key\": \"PEB-166-remove-prefixing\"}], \"id\": \"20152844489\", \"key\": \"PEB-166-remove-prefixing\"}, {\"experimentIds\": [], \"rolloutId\": \"20229955109\", \"variables\": [], \"id\": \"20229446905\", \"key\": \"home_valuation_cta_homeworth_image_copy_hero_image\"}, {\"experimentIds\": [], \"rolloutId\": \"20245782483\", \"variables\": [], \"id\": \"20238137555\", \"key\": \"temp_debugging_test\"}, {\"experimentIds\": [], \"rolloutId\": \"20243918930\", \"variables\": [], \"id\": \"20256170660\", \"key\": \"pdp-similar-properties-for-sale\"}, {\"experimentIds\": [], \"rolloutId\": \"20276200533\", \"variables\": [], \"id\": \"20261805097\", \"key\": \"buying_contentful_source\"}, {\"experimentIds\": [], \"rolloutId\": \"20262283368\", \"variables\": [], \"id\": \"20262421593\", \"key\": \"property_attributes_data\"}, {\"experimentIds\": [], \"rolloutId\": \"20272111027\", \"variables\": [], \"id\": \"20273586658\", \"key\": \"selling_contentful_source\"}, {\"experimentIds\": [], \"rolloutId\": \"20216686831\", \"variables\": [], \"id\": \"20286791989\", \"key\": \"valuation_booster_estimation\"}, {\"experimentIds\": [], \"rolloutId\": \"20289641343\", \"variables\": [], \"id\": \"20291601763\", \"key\": \"liveramp-consent-banner\"}, {\"experimentIds\": [], \"rolloutId\": \"20322553509\", \"variables\": [], \"id\": \"20334781601\", \"key\": \"address-service\"}, {\"experimentIds\": [], \"rolloutId\": \"20308889640\", \"variables\": [], \"id\": \"20337399184\", \"key\": \"featured_homes_contentful_source\"}, {\"experimentIds\": [], \"rolloutId\": \"20365010693\", \"variables\": [], \"id\": \"20337468471\", \"key\": \"renting_contentful_source\"}, {\"experimentIds\": [], \"rolloutId\": \"20331881252\", \"variables\": [{\"defaultValue\": \"false\", \"type\": \"boolean\", \"id\": \"20330110966\", \"key\": \"ddpListings\"}], \"id\": \"20339331335\", \"key\": \"ddp_listings\"}, {\"experimentIds\": [], \"rolloutId\": \"20326388551\", \"variables\": [], \"id\": \"20348370465\", \"key\": \"first_time_buyers_contentful_source\"}, {\"experimentIds\": [], \"rolloutId\": \"20330116170\", \"variables\": [{\"defaultValue\": \"false\", \"type\": \"boolean\", \"id\": \"20321906404\", \"key\": \"show_banner\"}], \"id\": \"20353571728\", \"key\": \"mobile_app_banner\"}, {\"experimentIds\": [], \"rolloutId\": \"20407610254\", \"variables\": [], \"id\": \"20370827150\", \"key\": \"register_sso\"}, {\"experimentIds\": [], \"rolloutId\": \"20389695549\", \"variables\": [], \"id\": \"20378472003\", \"key\": \"lex-595-call-agent-click\"}, {\"experimentIds\": [], \"rolloutId\": \"20336567055\", \"variables\": [], \"id\": \"20419576303\", \"key\": \"google_one_tap\"}, {\"experimentIds\": [], \"rolloutId\": \"20374712756\", \"variables\": [], \"id\": \"20419592538\", \"key\": \"government_schemes\"}, {\"experimentIds\": [], \"rolloutId\": \"20429850020\", \"variables\": [], \"id\": \"20426231190\", \"key\": \"valuation_sponsored_slot\"}, {\"experimentIds\": [], \"rolloutId\": \"20439260429\", \"variables\": [], \"id\": \"20433422062\", \"key\": \"lex-323_saved_properties_widget\"}, {\"experimentIds\": [], \"rolloutId\": \"20434494243\", \"variables\": [], \"id\": \"20453232714\", \"key\": \"valuation_agent_classification\"}, {\"experimentIds\": [], \"rolloutId\": \"20456685468\", \"variables\": [], \"id\": \"20456774726\", \"key\": \"CRME-1223-tracked-properties-page\"}, {\"experimentIds\": [], \"rolloutId\": \"20460426787\", \"variables\": [], \"id\": \"20462296968\", \"key\": \"property_specify_relationship_modal\"}, {\"experimentIds\": [], \"rolloutId\": \"20494048321\", \"variables\": [{\"defaultValue\": \"false\", \"type\": \"boolean\", \"id\": \"20497404761\", \"key\": \"gov-scheme_modals_enabled\"}], \"id\": \"20484436744\", \"key\": \"government_scheme_modals\"}, {\"experimentIds\": [], \"rolloutId\": \"20493721285\", \"variables\": [], \"id\": \"20485268428\", \"key\": \"pdp-cx-home-buyers-report\"}, {\"experimentIds\": [], \"rolloutId\": \"20516102466\", \"variables\": [], \"id\": \"20504571134\", \"key\": \"sr_796_map_view_button_on_mobile_lsrp\"}, {\"experimentIds\": [], \"rolloutId\": \"20510882867\", \"variables\": [], \"id\": \"20504572842\", \"key\": \"customer_portfolio_page\"}, {\"experimentIds\": [], \"rolloutId\": \"20508365252\", \"variables\": [], \"id\": \"20508115361\", \"key\": \"my_home_property_details_page\"}, {\"experimentIds\": [], \"rolloutId\": \"20450580914\", \"variables\": [], \"id\": \"20509931275\", \"key\": \"ddp_use_elasticsearch_for_legacy_resolver\"}, {\"experimentIds\": [], \"rolloutId\": \"20518130941\", \"variables\": [], \"id\": \"20528111030\", \"key\": \"sr1041_lsrp_mobile_buttons\"}, {\"experimentIds\": [], \"rolloutId\": \"20504470755\", \"variables\": [{\"defaultValue\": \"false\", \"type\": \"boolean\", \"id\": \"20516191061\", \"key\": \"isEnabled\"}], \"id\": \"20533880664\", \"key\": \"development_details_ldp\"}, {\"experimentIds\": [], \"rolloutId\": \"20518221163\", \"variables\": [], \"id\": \"20537131163\", \"key\": \"lex-615-similar-properties-sidebar\"}], \"experiments\": [{\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20448059471\", \"key\": \"variation_1\"}, {\"variables\": [], \"id\": \"20466156791\", \"key\": \"variation_2\"}], \"id\": \"20485037530\", \"key\": \"reg_profile_a_a_sign_in_test\", \"layerId\": \"20464007615\", \"trafficAllocation\": [{\"entityId\": \"20448059471\", \"endOfRange\": 5000}, {\"entityId\": \"20466156791\", \"endOfRange\": 10000}], \"forcedVariations\": {}}, {\"status\": \"Running\", \"audienceIds\": [], \"variations\": [{\"variables\": [], \"id\": \"20518974220\", \"key\": \"control\"}, {\"variables\": [], \"id\": \"20497833570\", \"key\": \"my_home_only\"}, {\"variables\": [], \"id\": \"20488623293\", \"key\": \"saved_only\"}, {\"variables\": [], \"id\": \"20518975292\", \"key\": \"my_home_and_saved\"}, {\"variables\": [], \"id\": \"20533131252\", \"key\": \"my_home_and_saved_with_condensed_logo\"}], \"id\": \"20513142819\", \"key\": \"crme_1269_mobile_my_home_nav\", \"layerId\": \"20511961331\", \"trafficAllocation\": [{\"entityId\": \"20497833570\", \"endOfRange\": 400}, {\"entityId\": \"\", \"endOfRange\": 2000}, {\"entityId\": \"20488623293\", \"endOfRange\": 2400}, {\"entityId\": \"\", \"endOfRange\": 4000}, {\"entityId\": \"20518975292\", \"endOfRange\": 4400}, {\"entityId\": \"\", \"endOfRange\": 5000}, {\"entityId\": \"20518974220\", \"endOfRange\": 5400}, {\"entityId\": \"\", \"endOfRange\": 7000}, {\"entityId\": \"\", \"endOfRange\": 8000}, {\"entityId\": \"20533131252\", \"endOfRange\": 8400}, {\"entityId\": \"\", \"endOfRange\": 10000}], \"forcedVariations\": {}}], \"audiences\": [{\"id\": \"20085480105\", \"conditions\": \"[\\\"and\\\", [\\\"or\\\", [\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"campaign_name\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"PropertyAlert_Sale_Instant\\\"}]]]\", \"name\": \"Everyone, For-Sale Instant Alerts\"}, {\"id\": \"20006554690\", \"conditions\": \"[\\\"and\\\", [\\\"or\\\", [\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"UserId\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"LiamTest\\\"}]]]\", \"name\": \"Liam Test\"}, {\"id\": \"19989560772\", \"conditions\": \"[\\\"and\\\", [\\\"or\\\", [\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"UserId\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"test_audience\\\"}]]]\", \"name\": \"test_audience\"}, {\"id\": \"19998648250\", \"conditions\": \"[\\\"and\\\", [\\\"or\\\", [\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"UserId\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"cae7e8107cec163efa98fe7fc77c0c28\\\"}], [\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"UserId\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"test123\\\"}]]]\", \"name\": \"Liam User\"}, {\"id\": \"20087031244\", \"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\", \"name\": \"Internal Email Testing List\"}, {\"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\", \"id\": \"$opt_dummy_audience\", \"name\": \"Optimizely-Generated Audience for Backwards Compatibility\"}], \"groups\": [], \"attributes\": [{\"id\": \"18993252701\", \"key\": \"force_variations\"}, {\"id\": \"18997061859\", \"key\": \"force_variation\"}, {\"id\": \"19962133842\", \"key\": \"UserId\"}, {\"id\": \"20071991786\", \"key\": \"campaign_name\"}, {\"id\": \"20079256271\", \"key\": \"operating_system\"}, {\"id\": \"20313371964\", \"key\": \"funnel\"}, {\"id\": \"20502945906\", \"key\": \"mobile_user\"}, {\"id\": \"20506601696\", \"key\": \"mobile_users\"}], \"botFiltering\": true, \"accountId\": \"17924000440\", \"events\": [{\"experimentIds\": [\"20485037530\", \"20513142819\"], \"id\": \"18928053642\", \"key\": \"Registration\"}, {\"experimentIds\": [\"20485037530\", \"20513142819\"], \"id\": \"18968071282\", \"key\": \"Sign In\"}, {\"experimentIds\": [], \"id\": \"19962003483\", \"key\": \"Search\"}, {\"experimentIds\": [], \"id\": \"19987870516\", \"key\": \"Listing Details Page Viewed\"}, {\"experimentIds\": [], \"id\": \"19990721087\", \"key\": \"Viewed Page\"}, {\"experimentIds\": [], \"id\": \"20017710529\", \"key\": \"valuation-click\"}, {\"experimentIds\": [], \"id\": \"20064020107\", \"key\": \"email_all_cta\"}, {\"experimentIds\": [], \"id\": \"20088941860\", \"key\": \"ShowAndTell\"}, {\"experimentIds\": [], \"id\": \"20183823817\", \"key\": \"Listing Lead Sent\"}, {\"experimentIds\": [], \"id\": \"20215250636\", \"key\": \"af-733-experian-click\"}, {\"experimentIds\": [], \"id\": \"20251325332\", \"key\": \"Form started\"}, {\"experimentIds\": [], \"id\": \"20253138457\", \"key\": \"Form submitted\"}, {\"experimentIds\": [\"20485037530\", \"20513142819\"], \"id\": \"20293077202\", \"key\": \"Email Marketing Opt-In\"}, {\"experimentIds\": [], \"id\": \"20331883938\", \"key\": \"Mobile app banner click\"}, {\"experimentIds\": [], \"id\": \"20341251822\", \"key\": \"live-ramp-banner\"}, {\"experimentIds\": [], \"id\": \"20495561097\", \"key\": \"pdp-report-banner\"}], \"revision\": \"1227\"}",
+        "optimizelyOverrides": { "experiments": {}, "features": {} },
+        "anonId": "87bc9505-4a3a-4969-9265-ac9043430d3b",
+        "userAgent": "Amazon CloudFront"
+      }
+    },
+    "initialState": {
+      "filters": {
+        "radius": {
+          "options": [
+            { "label": "This area only", "value": "0" },
+            { "label": "+ ¼ mile", "value": "0.25" },
+            { "label": "+ ½ mile", "value": "0.5" },
+            { "label": "+ 1 mile", "value": "1" },
+            { "label": "+ 3 miles", "value": "3" },
+            { "label": "+ 5 miles", "value": "5" },
+            { "label": "+ 10 miles", "value": "10" },
+            { "label": "+ 15 miles", "value": "15" },
+            { "label": "+ 20 miles", "value": "20" },
+            { "label": "+ 30 miles", "value": "30" },
+            { "label": "+ 40 miles", "value": "40" }
+          ],
+          "selectedValue": "0"
+        },
+        "minBedrooms": {
+          "options": [
+            { "label": "No min", "value": "" },
+            { "label": "Studio", "value": "0" },
+            { "label": "1", "value": "1" },
+            { "label": "2", "value": "2" },
+            { "label": "3", "value": "3" },
+            { "label": "4", "value": "4" },
+            { "label": "5", "value": "5" },
+            { "label": "6", "value": "6" },
+            { "label": "7", "value": "7" },
+            { "label": "8", "value": "8" },
+            { "label": "9", "value": "9" },
+            { "label": "10+", "value": "10" }
+          ],
+          "selectedValue": ""
+        },
+        "maxBedrooms": {
+          "options": [
+            { "label": "No max", "value": "" },
+            { "label": "Studio", "value": "0" },
+            { "label": "1", "value": "1" },
+            { "label": "2", "value": "2" },
+            { "label": "3", "value": "3" },
+            { "label": "4", "value": "4" },
+            { "label": "5", "value": "5" },
+            { "label": "6", "value": "6" },
+            { "label": "7", "value": "7" },
+            { "label": "8", "value": "8" },
+            { "label": "9", "value": "9" },
+            { "label": "10+", "value": "10" }
+          ],
+          "selectedValue": ""
+        },
+        "propertyType": {
+          "options": [
+            { "label": "Show all", "value": "" },
+            { "label": "Houses", "value": "houses" },
+            { "label": "Flats", "value": "flats" },
+            { "label": "Farms/land", "value": "farms_land" }
+          ],
+          "selectedValue": ""
+        },
+        "minPrice": {
+          "options": [
+            { "label": "No min", "value": "0" },
+            { "label": "£10,000", "value": "10000" },
+            { "label": "£20,000", "value": "20000" },
+            { "label": "£30,000", "value": "30000" },
+            { "label": "£40,000", "value": "40000" },
+            { "label": "£50,000", "value": "50000" },
+            { "label": "£60,000", "value": "60000" },
+            { "label": "£70,000", "value": "70000" },
+            { "label": "£80,000", "value": "80000" },
+            { "label": "£90,000", "value": "90000" },
+            { "label": "£100,000", "value": "100000" },
+            { "label": "£110,000", "value": "110000" },
+            { "label": "£120,000", "value": "120000" },
+            { "label": "£125,000", "value": "125000" },
+            { "label": "£130,000", "value": "130000" },
+            { "label": "£140,000", "value": "140000" },
+            { "label": "£150,000", "value": "150000" },
+            { "label": "£160,000", "value": "160000" },
+            { "label": "£170,000", "value": "170000" },
+            { "label": "£180,000", "value": "180000" },
+            { "label": "£190,000", "value": "190000" },
+            { "label": "£200,000", "value": "200000" },
+            { "label": "£210,000", "value": "210000" },
+            { "label": "£220,000", "value": "220000" },
+            { "label": "£230,000", "value": "230000" },
+            { "label": "£240,000", "value": "240000" },
+            { "label": "£250,000", "value": "250000" },
+            { "label": "£275,000", "value": "275000" },
+            { "label": "£300,000", "value": "300000" },
+            { "label": "£325,000", "value": "325000" },
+            { "label": "£350,000", "value": "350000" },
+            { "label": "£375,000", "value": "375000" },
+            { "label": "£400,000", "value": "400000" },
+            { "label": "£425,000", "value": "425000" },
+            { "label": "£450,000", "value": "450000" },
+            { "label": "£475,000", "value": "475000" },
+            { "label": "£500,000", "value": "500000" },
+            { "label": "£550,000", "value": "550000" },
+            { "label": "£600,000", "value": "600000" },
+            { "label": "£650,000", "value": "650000" },
+            { "label": "£700,000", "value": "700000" },
+            { "label": "£750,000", "value": "750000" },
+            { "label": "£800,000", "value": "800000" },
+            { "label": "£850,000", "value": "850000" },
+            { "label": "£900,000", "value": "900000" },
+            { "label": "£950,000", "value": "950000" },
+            { "label": "£1,000,000", "value": "1000000" },
+            { "label": "£1,100,000", "value": "1100000" },
+            { "label": "£1,200,000", "value": "1200000" },
+            { "label": "£1,300,000", "value": "1300000" },
+            { "label": "£1,400,000", "value": "1400000" },
+            { "label": "£1,500,000", "value": "1500000" },
+            { "label": "£1,600,000", "value": "1600000" },
+            { "label": "£1,700,000", "value": "1700000" },
+            { "label": "£1,800,000", "value": "1800000" },
+            { "label": "£1,900,000", "value": "1900000" },
+            { "label": "£2,000,000", "value": "2000000" },
+            { "label": "£2,100,000", "value": "2100000" },
+            { "label": "£2,200,000", "value": "2200000" },
+            { "label": "£2,300,000", "value": "2300000" },
+            { "label": "£2,400,000", "value": "2400000" },
+            { "label": "£2,500,000", "value": "2500000" },
+            { "label": "£2,750,000", "value": "2750000" },
+            { "label": "£3,000,000", "value": "3000000" },
+            { "label": "£3,250,000", "value": "3250000" },
+            { "label": "£3,500,000", "value": "3500000" },
+            { "label": "£3,750,000", "value": "3750000" },
+            { "label": "£4,000,000", "value": "4000000" },
+            { "label": "£4,250,000", "value": "4250000" },
+            { "label": "£4,500,000", "value": "4500000" },
+            { "label": "£4,750,000", "value": "4750000" },
+            { "label": "£5,000,000", "value": "5000000" },
+            { "label": "£5,500,000", "value": "5500000" },
+            { "label": "£6,000,000", "value": "6000000" },
+            { "label": "£6,500,000", "value": "6500000" },
+            { "label": "£7,000,000", "value": "7000000" },
+            { "label": "£7,500,000", "value": "7500000" },
+            { "label": "£8,000,000", "value": "8000000" },
+            { "label": "£8,500,000", "value": "8500000" },
+            { "label": "£9,000,000", "value": "9000000" },
+            { "label": "£9,500,000", "value": "9500000" },
+            { "label": "£10,000,000", "value": "10000000" },
+            { "label": "£12,500,000", "value": "12500000" },
+            { "label": "£15,000,000", "value": "15000000" }
+          ],
+          "selectedValue": "0"
+        },
+        "maxPrice": {
+          "options": [
+            { "label": "No max", "value": "0" },
+            { "label": "£10,000", "value": "10000" },
+            { "label": "£20,000", "value": "20000" },
+            { "label": "£30,000", "value": "30000" },
+            { "label": "£40,000", "value": "40000" },
+            { "label": "£50,000", "value": "50000" },
+            { "label": "£60,000", "value": "60000" },
+            { "label": "£70,000", "value": "70000" },
+            { "label": "£80,000", "value": "80000" },
+            { "label": "£90,000", "value": "90000" },
+            { "label": "£100,000", "value": "100000" },
+            { "label": "£110,000", "value": "110000" },
+            { "label": "£120,000", "value": "120000" },
+            { "label": "£125,000", "value": "125000" },
+            { "label": "£130,000", "value": "130000" },
+            { "label": "£140,000", "value": "140000" },
+            { "label": "£150,000", "value": "150000" },
+            { "label": "£160,000", "value": "160000" },
+            { "label": "£170,000", "value": "170000" },
+            { "label": "£180,000", "value": "180000" },
+            { "label": "£190,000", "value": "190000" },
+            { "label": "£200,000", "value": "200000" },
+            { "label": "£210,000", "value": "210000" },
+            { "label": "£220,000", "value": "220000" },
+            { "label": "£230,000", "value": "230000" },
+            { "label": "£240,000", "value": "240000" },
+            { "label": "£250,000", "value": "250000" },
+            { "label": "£275,000", "value": "275000" },
+            { "label": "£300,000", "value": "300000" },
+            { "label": "£325,000", "value": "325000" },
+            { "label": "£350,000", "value": "350000" },
+            { "label": "£375,000", "value": "375000" },
+            { "label": "£400,000", "value": "400000" },
+            { "label": "£425,000", "value": "425000" },
+            { "label": "£450,000", "value": "450000" },
+            { "label": "£475,000", "value": "475000" },
+            { "label": "£500,000", "value": "500000" },
+            { "label": "£550,000", "value": "550000" },
+            { "label": "£600,000", "value": "600000" },
+            { "label": "£650,000", "value": "650000" },
+            { "label": "£700,000", "value": "700000" },
+            { "label": "£750,000", "value": "750000" },
+            { "label": "£800,000", "value": "800000" },
+            { "label": "£850,000", "value": "850000" },
+            { "label": "£900,000", "value": "900000" },
+            { "label": "£950,000", "value": "950000" },
+            { "label": "£1,000,000", "value": "1000000" },
+            { "label": "£1,100,000", "value": "1100000" },
+            { "label": "£1,200,000", "value": "1200000" },
+            { "label": "£1,300,000", "value": "1300000" },
+            { "label": "£1,400,000", "value": "1400000" },
+            { "label": "£1,500,000", "value": "1500000" },
+            { "label": "£1,600,000", "value": "1600000" },
+            { "label": "£1,700,000", "value": "1700000" },
+            { "label": "£1,800,000", "value": "1800000" },
+            { "label": "£1,900,000", "value": "1900000" },
+            { "label": "£2,000,000", "value": "2000000" },
+            { "label": "£2,100,000", "value": "2100000" },
+            { "label": "£2,200,000", "value": "2200000" },
+            { "label": "£2,300,000", "value": "2300000" },
+            { "label": "£2,400,000", "value": "2400000" },
+            { "label": "£2,500,000", "value": "2500000" },
+            { "label": "£2,750,000", "value": "2750000" },
+            { "label": "£3,000,000", "value": "3000000" },
+            { "label": "£3,250,000", "value": "3250000" },
+            { "label": "£3,500,000", "value": "3500000" },
+            { "label": "£3,750,000", "value": "3750000" },
+            { "label": "£4,000,000", "value": "4000000" },
+            { "label": "£4,250,000", "value": "4250000" },
+            { "label": "£4,500,000", "value": "4500000" },
+            { "label": "£4,750,000", "value": "4750000" },
+            { "label": "£5,000,000", "value": "5000000" },
+            { "label": "£5,500,000", "value": "5500000" },
+            { "label": "£6,000,000", "value": "6000000" },
+            { "label": "£6,500,000", "value": "6500000" },
+            { "label": "£7,000,000", "value": "7000000" },
+            { "label": "£7,500,000", "value": "7500000" },
+            { "label": "£8,000,000", "value": "8000000" },
+            { "label": "£8,500,000", "value": "8500000" },
+            { "label": "£9,000,000", "value": "9000000" },
+            { "label": "£9,500,000", "value": "9500000" },
+            { "label": "£10,000,000", "value": "10000000" },
+            { "label": "£12,500,000", "value": "12500000" },
+            { "label": "£15,000,000", "value": "15000000" }
+          ],
+          "selectedValue": "0"
+        },
+        "minPriceWeekly": {
+          "options": [
+            { "label": "No min", "value": "0" },
+            { "label": "£25 pw", "value": "25" },
+            { "label": "£50 pw", "value": "50" },
+            { "label": "£75 pw", "value": "75" },
+            { "label": "£100 pw", "value": "100" },
+            { "label": "£125 pw", "value": "125" },
+            { "label": "£150 pw", "value": "150" },
+            { "label": "£175 pw", "value": "175" },
+            { "label": "£200 pw", "value": "200" },
+            { "label": "£225 pw", "value": "225" },
+            { "label": "£250 pw", "value": "250" },
+            { "label": "£275 pw", "value": "275" },
+            { "label": "£300 pw", "value": "300" },
+            { "label": "£325 pw", "value": "325" },
+            { "label": "£350 pw", "value": "350" },
+            { "label": "£375 pw", "value": "375" },
+            { "label": "£400 pw", "value": "400" },
+            { "label": "£425 pw", "value": "425" },
+            { "label": "£450 pw", "value": "450" },
+            { "label": "£475 pw", "value": "475" },
+            { "label": "£500 pw", "value": "500" },
+            { "label": "£550 pw", "value": "550" },
+            { "label": "£600 pw", "value": "600" },
+            { "label": "£650 pw", "value": "650" },
+            { "label": "£700 pw", "value": "700" },
+            { "label": "£750 pw", "value": "750" },
+            { "label": "£800 pw", "value": "800" },
+            { "label": "£850 pw", "value": "850" },
+            { "label": "£900 pw", "value": "900" },
+            { "label": "£950 pw", "value": "950" },
+            { "label": "£1,000 pw", "value": "1000" },
+            { "label": "£1,250 pw", "value": "1250" },
+            { "label": "£1,500 pw", "value": "1500" },
+            { "label": "£1,750 pw", "value": "1750" },
+            { "label": "£2,000 pw", "value": "2000" },
+            { "label": "£2,500 pw", "value": "2500" },
+            { "label": "£3,000 pw", "value": "3000" },
+            { "label": "£3,500 pw", "value": "3500" },
+            { "label": "£4,000 pw", "value": "4000" },
+            { "label": "£4,500 pw", "value": "4500" },
+            { "label": "£5,000 pw", "value": "5000" },
+            { "label": "£7,500 pw", "value": "7500" }
+          ],
+          "selectedValue": "0"
+        },
+        "maxPriceWeekly": {
+          "options": [
+            { "label": "No max", "value": "0" },
+            { "label": "£25 pw", "value": "25" },
+            { "label": "£50 pw", "value": "50" },
+            { "label": "£75 pw", "value": "75" },
+            { "label": "£100 pw", "value": "100" },
+            { "label": "£125 pw", "value": "125" },
+            { "label": "£150 pw", "value": "150" },
+            { "label": "£175 pw", "value": "175" },
+            { "label": "£200 pw", "value": "200" },
+            { "label": "£225 pw", "value": "225" },
+            { "label": "£250 pw", "value": "250" },
+            { "label": "£275 pw", "value": "275" },
+            { "label": "£300 pw", "value": "300" },
+            { "label": "£325 pw", "value": "325" },
+            { "label": "£350 pw", "value": "350" },
+            { "label": "£375 pw", "value": "375" },
+            { "label": "£400 pw", "value": "400" },
+            { "label": "£425 pw", "value": "425" },
+            { "label": "£450 pw", "value": "450" },
+            { "label": "£475 pw", "value": "475" },
+            { "label": "£500 pw", "value": "500" },
+            { "label": "£550 pw", "value": "550" },
+            { "label": "£600 pw", "value": "600" },
+            { "label": "£650 pw", "value": "650" },
+            { "label": "£700 pw", "value": "700" },
+            { "label": "£750 pw", "value": "750" },
+            { "label": "£800 pw", "value": "800" },
+            { "label": "£850 pw", "value": "850" },
+            { "label": "£900 pw", "value": "900" },
+            { "label": "£950 pw", "value": "950" },
+            { "label": "£1,000 pw", "value": "1000" },
+            { "label": "£1,250 pw", "value": "1250" },
+            { "label": "£1,500 pw", "value": "1500" },
+            { "label": "£1,750 pw", "value": "1750" },
+            { "label": "£2,000 pw", "value": "2000" },
+            { "label": "£2,500 pw", "value": "2500" },
+            { "label": "£3,000 pw", "value": "3000" },
+            { "label": "£3,500 pw", "value": "3500" },
+            { "label": "£4,000 pw", "value": "4000" },
+            { "label": "£4,500 pw", "value": "4500" },
+            { "label": "£5,000 pw", "value": "5000" },
+            { "label": "£7,500 pw", "value": "7500" }
+          ],
+          "selectedValue": "0"
+        },
+        "minPriceMonthly": {
+          "options": [
+            { "label": "No min", "value": "0" },
+            { "label": "£100 pcm", "value": "100" },
+            { "label": "£200 pcm", "value": "200" },
+            { "label": "£300 pcm", "value": "300" },
+            { "label": "£400 pcm", "value": "400" },
+            { "label": "£500 pcm", "value": "500" },
+            { "label": "£600 pcm", "value": "600" },
+            { "label": "£700 pcm", "value": "700" },
+            { "label": "£800 pcm", "value": "800" },
+            { "label": "£900 pcm", "value": "900" },
+            { "label": "£1,000 pcm", "value": "1000" },
+            { "label": "£1,250 pcm", "value": "1250" },
+            { "label": "£1,500 pcm", "value": "1500" },
+            { "label": "£1,750 pcm", "value": "1750" },
+            { "label": "£2,000 pcm", "value": "2000" },
+            { "label": "£2,250 pcm", "value": "2250" },
+            { "label": "£2,500 pcm", "value": "2500" },
+            { "label": "£2,750 pcm", "value": "2750" },
+            { "label": "£3,000 pcm", "value": "3000" },
+            { "label": "£3,250 pcm", "value": "3250" },
+            { "label": "£3,500 pcm", "value": "3500" },
+            { "label": "£3,750 pcm", "value": "3750" },
+            { "label": "£4,000 pcm", "value": "4000" },
+            { "label": "£4,250 pcm", "value": "4250" },
+            { "label": "£4,500 pcm", "value": "4500" },
+            { "label": "£4,750 pcm", "value": "4750" },
+            { "label": "£5,000 pcm", "value": "5000" },
+            { "label": "£5,500 pcm", "value": "5500" },
+            { "label": "£6,000 pcm", "value": "6000" },
+            { "label": "£6,500 pcm", "value": "6500" },
+            { "label": "£7,000 pcm", "value": "7000" },
+            { "label": "£7,500 pcm", "value": "7500" },
+            { "label": "£8,000 pcm", "value": "8000" },
+            { "label": "£8,500 pcm", "value": "8500" },
+            { "label": "£9,000 pcm", "value": "9000" },
+            { "label": "£9,500 pcm", "value": "9500" },
+            { "label": "£10,000 pcm", "value": "10000" },
+            { "label": "£12,500 pcm", "value": "12500" },
+            { "label": "£15,000 pcm", "value": "15000" },
+            { "label": "£17,500 pcm", "value": "17500" },
+            { "label": "£20,000 pcm", "value": "20000" },
+            { "label": "£25,000 pcm", "value": "25000" }
+          ],
+          "selectedValue": "0"
+        },
+        "maxPriceMonthly": {
+          "options": [
+            { "label": "No max", "value": "0" },
+            { "label": "£100 pcm", "value": "100" },
+            { "label": "£200 pcm", "value": "200" },
+            { "label": "£300 pcm", "value": "300" },
+            { "label": "£400 pcm", "value": "400" },
+            { "label": "£500 pcm", "value": "500" },
+            { "label": "£600 pcm", "value": "600" },
+            { "label": "£700 pcm", "value": "700" },
+            { "label": "£800 pcm", "value": "800" },
+            { "label": "£900 pcm", "value": "900" },
+            { "label": "£1,000 pcm", "value": "1000" },
+            { "label": "£1,250 pcm", "value": "1250" },
+            { "label": "£1,500 pcm", "value": "1500" },
+            { "label": "£1,750 pcm", "value": "1750" },
+            { "label": "£2,000 pcm", "value": "2000" },
+            { "label": "£2,250 pcm", "value": "2250" },
+            { "label": "£2,500 pcm", "value": "2500" },
+            { "label": "£2,750 pcm", "value": "2750" },
+            { "label": "£3,000 pcm", "value": "3000" },
+            { "label": "£3,250 pcm", "value": "3250" },
+            { "label": "£3,500 pcm", "value": "3500" },
+            { "label": "£3,750 pcm", "value": "3750" },
+            { "label": "£4,000 pcm", "value": "4000" },
+            { "label": "£4,250 pcm", "value": "4250" },
+            { "label": "£4,500 pcm", "value": "4500" },
+            { "label": "£4,750 pcm", "value": "4750" },
+            { "label": "£5,000 pcm", "value": "5000" },
+            { "label": "£5,500 pcm", "value": "5500" },
+            { "label": "£6,000 pcm", "value": "6000" },
+            { "label": "£6,500 pcm", "value": "6500" },
+            { "label": "£7,000 pcm", "value": "7000" },
+            { "label": "£7,500 pcm", "value": "7500" },
+            { "label": "£8,000 pcm", "value": "8000" },
+            { "label": "£8,500 pcm", "value": "8500" },
+            { "label": "£9,000 pcm", "value": "9000" },
+            { "label": "£9,500 pcm", "value": "9500" },
+            { "label": "£10,000 pcm", "value": "10000" },
+            { "label": "£12,500 pcm", "value": "12500" },
+            { "label": "£15,000 pcm", "value": "15000" },
+            { "label": "£17,500 pcm", "value": "17500" },
+            { "label": "£20,000 pcm", "value": "20000" },
+            { "label": "£25,000 pcm", "value": "25000" }
+          ],
+          "selectedValue": "0"
+        },
+        "priceFrequency": {
+          "options": [
+            { "label": "Month", "value": "per_month" },
+            { "label": "Week", "value": "per_week" }
+          ],
+          "selectedValue": ""
+        },
+        "propertySubTypes": {
+          "options": [
+            { "label": "Detached house", "value": "detached" },
+            { "label": "Semi-detached house", "value": "semi_detached" },
+            { "label": "Terraced house", "value": "terraced" },
+            { "label": "Bungalow", "value": "bungalow" },
+            { "label": "Detached bungalow", "value": "detached_bungalow" },
+            {
+              "label": "Semi-detached bungalow",
+              "value": "semi_detached_bungalow"
+            },
+            { "label": "Terraced bungalow", "value": "terraced_bungalow" },
+            { "label": "Cottage", "value": "cottage" },
+            { "label": "Mobile/park home", "value": "park_home" }
+          ],
+          "selectedValue": []
+        },
+        "propertyAdded": {
+          "options": [
+            { "label": "Added anytime", "value": "" },
+            { "label": "Last 24 hours", "value": "24_hours" },
+            { "label": "Last 3 days", "value": "3_days" },
+            { "label": "Last 7 days", "value": "7_days" },
+            { "label": "Last 14 days", "value": "14_days" },
+            { "label": "Last 30 days", "value": "30_days" }
+          ],
+          "selectedValue": ""
+        },
+        "availableFrom": {
+          "options": [
+            { "label": "Available anytime", "value": "" },
+            { "label": "Immediately", "value": "now" },
+            { "label": "Within 1 month", "value": "1months" },
+            { "label": "Within 3 months", "value": "3months" },
+            { "label": "Within 6 months", "value": "6months" },
+            { "label": "Within 1 year", "value": "12months" }
+          ],
+          "selectedValue": ""
+        },
+        "billsIncluded": { "label": "Bills included", "selectedValue": false },
+        "underOfferOrSold": {
+          "label": "Under offer / Sold STC",
+          "selectedValue": false
+        },
+        "chainFree": { "label": "Chain-free", "selectedValue": false },
+        "priceReduced": { "label": "Price-reduced", "selectedValue": false },
+        "includeSharedAccommodation": {
+          "label": "Include shared accommodation",
+          "selectedValue": true
+        },
+        "includeRented": {
+          "label": "Include let or let agreed",
+          "selectedValue": false
+        },
+        "furnishedState": {
+          "options": [
+            { "label": "Any", "value": "Any" },
+            { "label": "Furnished", "value": "furnished" },
+            { "label": "Part-furnished", "value": "part_furnished" },
+            { "label": "Unfurnished", "value": "unfurnished" }
+          ],
+          "selectedValue": "Any"
+        },
+        "petsAllowed": { "label": "Pets allowed", "selectedValue": false },
+        "rentalTerm": { "label": "Short lets", "selectedValue": false },
+        "mustHaves": {
+          "options": [
+            { "label": "Garden", "value": "has_garden" },
+            { "label": "Parking / garage", "value": "has_parking_garage" },
+            { "label": "Balcony / terrace", "value": "has_balcony_terrace" },
+            { "label": "Porter / security", "value": "has_porter_security" },
+            { "label": "Wood floors", "value": "has_wood_floors" },
+            { "label": "Fireplace", "value": "has_fireplace" },
+            { "label": "Rural / secluded", "value": "is_rural_secluded" }
+          ],
+          "selectedValue": []
+        },
+        "isSharedOwnership": {
+          "label": "Shared ownership",
+          "selectedValue": true,
+          "disabled": false
+        },
+        "auction": {
+          "label": "Auction",
+          "selectedValue": true,
+          "disabled": false
+        },
+        "retirementHome": { "label": "Retirement", "selectedValue": false },
+        "newHomes": { "label": "New homes", "selectedValue": false },
+        "preOwned": { "label": "Pre-owned", "selectedValue": false },
+        "incentives": { "label": "Help to buy", "selectedValue": false },
+        "keywords": {
+          "label": "Keywords",
+          "tip": "Search for phrases by using quotations marks e.g. “double garage”, or exclude terms by prefixing them with a minus sign e.g. -studio.",
+          "placeholder": "e.g. conservatory or “double garage”",
+          "selectedValue": ""
+        },
+        "duration": {
+          "options": [
+            { "label": "15 minutes", "value": "900" },
+            { "label": "30 minutes", "value": "1800" },
+            { "label": "45 minutes", "value": "2700" },
+            { "label": "1 hour", "value": "3600" },
+            { "label": "1 ¼ hour", "value": "4500" }
+          ],
+          "selectedValue": ""
+        },
+        "transportType": {
+          "options": [
+            { "label": "Driving", "value": "driving" },
+            { "label": "Walking", "value": "walking" },
+            { "label": "Train", "value": "walking_train" },
+            { "label": "Public transport", "value": "public_transport" },
+            { "label": "Cycling", "value": "cycling" }
+          ],
+          "selectedValue": ""
+        },
+        "q": { "selectedValue": "" },
+        "identifier": { "selectedValue": "" },
+        "locationText": { "selectedValue": "" }
+      },
+      "listingsSortOrder": {
+        "currentSortOrder": "newest_listings",
+        "options": []
+      },
+      "searchResults": {
+        "totalResults": 0,
+        "pageNumber": 0,
+        "totalResultsWasLimited": false,
+        "polyenc": null
+      },
+      "taxonomy": { "taxonomy": {} },
+      "optimizely": { "forcedFeatures": {} },
+      "user": {
+        "loading": false,
+        "loggedIn": false,
+        "loggedInStatus": "initial",
+        "senderPropertyStatus": null,
+        "creationDate": null,
+        "userId": null,
+        "userUuid": null,
+        "error": []
+      }
+    }
+  },
+  "page": "/for-sale/details/[listingId]",
+  "query": {
+    "utm_source": "v1:o-CbHmHKWkuAqUuvfrY87mH5fAY03Lnc",
+    "utm_medium": "apiproperty_listings.js",
+    "listing_id": "58680765",
+    "api_key": "54df6g48848ebnv94f3sjka3",
+    "listingId": "59312567"
+  },
+  "buildId": "944ed968",
+  "assetPrefix": "https://r.zoocdn.com",
+  "runtimeConfig": {
+    "GTM_ID": "GTM-WNFR4ZC",
+    "SEGMENT_ID": "kMettuB218zyYLIzUsT2ptxdGiEtWYT2",
+    "GRAPHQL_API": "https://api-graphql-lambda.prod.zoopla.co.uk/graphql",
+    "API_KEY": "3Vzj2wUfaP3euLsV4NV9h3UAVUR3BoWd5clv9Dvu",
+    "SIGNIN_PATH": "/signin/",
+    "REGISTER_PATH": "/register/",
+    "MAPS_CLIENT_ID": "gme-zooplapropertygroup",
+    "NEW_RELIC": {
+      "ACCOUNT_ID": "2902499",
+      "APP_ID": "95776729",
+      "BROWSER_KEY": "NRJS-87cb4c448aca56623be",
+      "BEACON": "bam.eu01.nr-data.net",
+      "DISABLE": false
+    },
+    "RECAPTCHA_KEY": "6Lc96NEaAAAAAFMMHlwojpLUzh-wqU8fE1wuIvhq"
+  },
+  "isFallback": false,
+  "customServer": true,
+  "gip": true,
+  "appGip": true,
+  "scriptLoader": []
+}

@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: bengriff1/bridge-template
+  repository: bengriff1/zoopla-bridge
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
@@ -40,7 +40,7 @@ securityContext:
 
 service:
   type: ClusterIP
-  port: 5200
+  port: 5300
 
 ingress:
   enabled: true
@@ -50,12 +50,12 @@ ingress:
   hosts:
     - host: api.bmgtec.com
       paths:
-        - path: /v1/bridge-template/
+        - path: /v1/zoopla-bridge/
           backend:
             service:
-              name: bridge-template-helm
+              name: zoopla-bridge-helm
               port:
-                number: 5200
+                number: 5300
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
@@ -89,4 +89,4 @@ affinity: {}
 
 env:
   - name: PREFIX_PATH
-    value: /v1/bridge-template/
+    value: /v1/zoopla-bridge/
