@@ -1,15 +1,15 @@
 x-app: &app
   build: .
-  image: bengriff1/bridge-template:latest
+  image: bengriff1/zoopla-bridge:latest
   volumes:
     - .:/code
-  command: "poetry run gunicorn --bind 0.0.0.0:5200 --reload --log-level debug bridge_template.app:app"
+  command: "poetry run gunicorn --bind 0.0.0.0:5300 --reload --log-level debug zoopla_bridge.app:app"
 
 services:
   web:
     <<: *app
     ports:
-      - "5200:5200"
+      - "5300:5300"
     stop_signal: SIGINT
   funtest:
     <<: *app

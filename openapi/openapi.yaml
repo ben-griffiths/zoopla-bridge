@@ -24,7 +24,7 @@ paths:
                     type: boolean
                 required:
                   - ok
-  /v1/search/example:
+  /v1/search/properties:
     post:
       summary: Do search
       tags:

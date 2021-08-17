@@ -3,7 +3,7 @@ name: Build, Lint and Test
 on: push
 
 env:
-  IMAGE: bengriff1/bridge-template:latest
+  IMAGE: bengriff1/zoopla-bridge:latest
 
 jobs:
   build:

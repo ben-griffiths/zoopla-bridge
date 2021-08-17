@@ -23,4 +23,4 @@ poetry install --no-interaction --no-ansi
 
 COPY . /code/
 
-CMD ["poetry", "run", "gunicorn", "--bind", "0.0.0.0:5000", "--reload", "--log-level", "debug", "bridge_template.app:app" ]
+CMD ["poetry", "run", "gunicorn", "--bind", "0.0.0.0:5300", "--reload", "--log-level", "debug", "zoopla_bridge.app:app" ]

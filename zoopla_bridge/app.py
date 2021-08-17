@@ -2,11 +2,11 @@ import os
 
 from flask import Flask
 
-from bridge_template.api.health_view import HealthView
-from bridge_template.api.search_view import SearchView
-from bridge_template.common import PrefixMiddleware, get, map_url_rules, post
-from bridge_template.service.health_service import HealthService
-from bridge_template.service.search_service import SearchService
+from zoopla_bridge.api.health_view import HealthView
+from zoopla_bridge.api.search_view import SearchView
+from zoopla_bridge.common import PrefixMiddleware, get, map_url_rules, post
+from zoopla_bridge.service.health_service import HealthService
+from zoopla_bridge.service.search_service import SearchService
 
 app = Flask(__name__)
 
@@ -25,7 +25,8 @@ map_url_rules(
     app,
     {
         "/health": [get(health_view.get_health)],
-        "/v1/search/example/": [post(search_view.post_search_example)],
+        "/v1/search/properties/": [post(search_view.post_search_properties)],
+        "/v1/search/property/": [post(search_view.post_search_property)],
     },
 )
 
